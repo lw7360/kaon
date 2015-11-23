@@ -1,0 +1,23 @@
+{
+  "name": "kaon",
+  "version": "0.0.1",
+  "description": "Electron markdown previewer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lw7360/kaon.git"
+  },
+  "keywords": [
+    "markdown",
+    "electron"
+  ],
+  "author": "Larry Wu <lw7360@gmail.com> (http://larrywu.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lw7360/kaon/issues"
+  },
+  "homepage": "https://github.com/lw7360/kaon#readme"
+}
